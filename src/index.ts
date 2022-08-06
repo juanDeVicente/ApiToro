@@ -24,5 +24,5 @@ app.get('/', async (req: Request, res: Response) => {
 });
 
 http.createServer(app).listen(port, () => {
-  console.log(`⚡️[server]: Server is running at https://localhost:${port}`);
+  console.log(`⚡️[server]: Server is running at port ${port}`);
 });
