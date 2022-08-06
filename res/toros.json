@@ -1,0 +1,710 @@
+{
+	"gpx": {
+	  "-version": "1.1",
+	  "-creator": "GDAL 2.2.2",
+	  "-xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+	  "-xmlns:ogr": "http://osgeo.org/gdal",
+	  "-xmlns": "http://www.topografix.com/GPX/1/1",
+	  "-xsi:schemaLocation": "http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd",
+	  "metadata": {
+		"bounds": {
+		  "-minlat": "6.462918000000000",
+		  "-minlon": "-8.611986000000000",
+		  "-maxlat": "43.532958999999998",
+		  "-maxlon": "-0.026041999999961",
+		  "-self-closing": "true"
+		}
+	  },
+	  "toros": [
+		{
+		  "-lat": "42.87031",
+		  "-lon": "-7.17073",
+		  "name": "Toro de Osborne Becerreá (Lugo)",
+		  "extensions": {
+			"comunidad:autonoma": "Galicia"
+		  }
+		},
+		{
+		  "-lat": "43.219582",
+		  "-lon": "-8.080221",
+		  "name": "Toro de Osborne Betanzos (A Coruña)\n",
+		  "extensions": {
+			"comunidad:autonoma": "Galicia"
+		  }
+		},
+		{
+		  "-lat": "42.348624",
+		  "-lon": "-8.611986",
+		  "name": "Toro de Osborne Puente Sampayo (Pontevedra)\n",
+		  "extensions": {
+			"comunidad:autonoma": "Galicia"
+		  }
+		},
+		{
+		  "-lat": "42.227948",
+		  "-lon": "-8.311631",
+		  "name": "Toro de Osborne La Cañiza (Pontevedra)\n",
+		  "extensions": {
+			"comunidad:autonoma": "Galicia"
+		  }
+		},
+		{
+		  "-lat": "42.052605",
+		  "-lon": "-7.668622",
+		  "name": "Toro de Osborne Ginzio de Limia (Orense)",
+		  "extensions": {
+			"comunidad:autonoma": "Galicia"
+		  }
+		},
+		{
+		  "-lat": "43.532959",
+		  "-lon": "-5.827794",
+		  "name": "Toro de Osborne Carreño (Asturias)",
+		  "extensions": {
+			"comunidad:autonoma": "Asturias"
+		  }
+		},
+		{
+		  "-lat": "43.38658",
+		  "-lon": "-5.693504",
+		  "name": "Toro de Osborne El Berrón (Xiero)",
+		  "extensions": {
+			"comunidad:autonoma": "Asturias"
+		  }
+		},
+		{
+		  "-lat": "43.345163",
+		  "-lon": "-5.90899",
+		  "name": "Toro de Osborne Santa Marina de Piedramuelle",
+		  "extensions": {
+			"comunidad:autonoma": "Asturias"
+		  }
+		},
+		{
+		  "-lat": "43.412494",
+		  "-lon": "-4.780514",
+		  "name": "Toro de Osborne Parres",
+		  "extensions": {
+			"comunidad:autonoma": "Asturias"
+		  }
+		},
+		{
+		  "-lat": "42.488914",
+		  "-lon": "-6.120235",
+		  "name": "Toro de Osborne Astorga ",
+		  "extensions": {
+			"comunidad:autonoma": "Castilla y León"
+		  }
+		},
+		{
+		  "-lat": "42.421455",
+		  "-lon": "-6.029269",
+		  "name": "Toro de Osborne Osborne Cuevas de Valderrey (B) (León)",
+		  "extensions": {
+			"comunidad:autonoma": "Castilla y León"
+		  }
+		},
+		{
+		  "-lat": "42.388279",
+		  "-lon": "-5.565902",
+		  "name": "Toro de Osborne Villalobar",
+		  "extensions": {
+			"comunidad:autonoma": "Castilla y León"
+		  }
+		},
+		{
+		  "-lat": "41.951075",
+		  "-lon": "-5.647265",
+		  "name": "Toro de Osborne Barcial del Barco ",
+		  "extensions": {
+			"comunidad:autonoma": "Castilla y León"
+		  }
+		},
+		{
+		  "-lat": "40.923172",
+		  "-lon": "-5.667228",
+		  "name": "Toro de Osborne Las Torres (Salamanca)",
+		  "extensions": {
+			"comunidad:autonoma": "Castilla y León"
+		  }
+		},
+		{
+		  "-lat": "40.928496",
+		  "-lon": "-5.409211",
+		  "name": "Toro de Osborne Cordovilla (Salamanca)",
+		  "extensions": {
+			"comunidad:autonoma": "Castilla y León"
+		  }
+		},
+		{
+		  "-lat": "40.842673",
+		  "-lon": "-4.526203",
+		  "name": "Toro de Osborne Labajos (Segovia)",
+		  "extensions": {
+			"comunidad:autonoma": "Castilla y León"
+		  }
+		},
+		{
+		  "-lat": "41.381254",
+		  "-lon": "-3.645857",
+		  "name": "Toro de Osborne Fresno de la Fuente (Segovia)",
+		  "extensions": {
+			"comunidad:autonoma": "Castilla y León"
+		  }
+		},
+		{
+		  "-lat": "41.811589",
+		  "-lon": "-3.700681",
+		  "name": "Toro de Osborne Gumiel de Izán (Burgos)",
+		  "extensions": {
+			"comunidad:autonoma": "Castilla y León"
+		  }
+		},
+		{
+		  "-lat": "42.20537",
+		  "-lon": "-3.698517",
+		  "name": "Toro de Osborne Cogollos (Burgos)",
+		  "extensions": {
+			"comunidad:autonoma": "Castilla y León"
+		  }
+		},
+		{
+		  "-lat": "42.581289",
+		  "-lon": "-3.298425",
+		  "name": "Toro de Osborne Cameno (Burgos)",
+		  "extensions": {
+			"comunidad:autonoma": "Castilla y León"
+		  }
+		},
+		{
+		  "-lat": "42.437707",
+		  "-lon": "-2.535182",
+		  "name": "Toro de Osborne Navarrete",
+		  "extensions": {
+			"comunidad:autonoma": "La Rioja"
+		  }
+		},
+		{
+		  "-lat": "42.511273",
+		  "-lon": "-2.722943",
+		  "name": "Toro de Osborne San Asensio ",
+		  "extensions": {
+			"comunidad:autonoma": "La Rioja"
+		  }
+		},
+		{
+		  "-lat": "42.710985",
+		  "-lon": "-2.907645",
+		  "name": "Toro de Osborne Rivabellosa",
+		  "extensions": {
+			"comunidad:autonoma": "País Vasco"
+		  }
+		},
+		{
+		  "-lat": "42.081903",
+		  "-lon": "-1.585412",
+		  "name": "Toro de Osborne Tudela",
+		  "extensions": {
+			"comunidad:autonoma": "Navarra"
+		  }
+		},
+		{
+		  "-lat": "41.501069",
+		  "-lon": "-0.026042",
+		  "name": "Toro de Osborne Peñalba (Huesca)",
+		  "extensions": {
+			"comunidad:autonoma": "Aragón"
+		  }
+		},
+		{
+		  "-lat": "41.5134",
+		  "-lon": "-0.45125",
+		  "name": "Toro de Osborne Pina de Ebro (Zaragoza)",
+		  "extensions": {
+			"comunidad:autonoma": "Aragón"
+		  }
+		},
+		{
+		  "-lat": "41.620755",
+		  "-lon": "-0.70882",
+		  "name": "Toro de Osborne Alfajarin (Zaragoza)",
+		  "extensions": {
+			"comunidad:autonoma": "Aragón"
+		  }
+		},
+		{
+		  "-lat": "41.562664",
+		  "-lon": "-1.12595",
+		  "name": "Toro de Osborne La Muela (Zaragoza)",
+		  "extensions": {
+			"comunidad:autonoma": "Aragón"
+		  }
+		},
+		{
+		  "-lat": "41.392209",
+		  "-lon": "-1.55249",
+		  "name": "Toro de Osborne Calatayud (Zaragoza)",
+		  "extensions": {
+			"comunidad:autonoma": "Aragón"
+		  }
+		},
+		{
+		  "-lat": "41.310421",
+		  "-lon": "-2.097157",
+		  "name": "Toro de Osborne Monreal de Ariza (Zaragoza)",
+		  "extensions": {
+			"comunidad:autonoma": "Aragón"
+		  }
+		},
+		{
+		  "-lat": "41.119107",
+		  "-lon": "-2.443796",
+		  "name": "Toro de Osborne Medinaceli (Soria)",
+		  "extensions": {
+			"comunidad:autonoma": "Castilla y León"
+		  }
+		},
+		{
+		  "-lat": "40.970013",
+		  "-lon": "-2.631324",
+		  "name": "Toro de Osborne Torremocha del Campo (Guadalajara)",
+		  "extensions": {
+			"comunidad:autonoma": "Castilla La Mancha"
+		  }
+		},
+		{
+		  "-lat": "40.838101",
+		  "-lon": "-2.899599",
+		  "name": "Toro de Osborne Gajanejos (Guadalajara)",
+		  "extensions": {
+			"comunidad:autonoma": "Castilla La Mancha"
+		  }
+		},
+		{
+		  "-lat": "40.626122",
+		  "-lon": "-3.184909",
+		  "name": "Toro de Osborne Guadalajara",
+		  "extensions": {
+			"comunidad:autonoma": "Castilla La Mancha"
+		  }
+		},
+		{
+		  "-lat": "40.150657",
+		  "-lon": "-3.231731",
+		  "name": "Toro de Osborne Villarejo de Salvanes ",
+		  "extensions": {
+			"comunidad:autonoma": "Madrid"
+		  }
+		},
+		{
+		  "-lat": "40.176434",
+		  "-lon": "-3.668833",
+		  "name": "Toro de Osborne Valdemoro",
+		  "extensions": {
+			"comunidad:autonoma": "Madrid"
+		  }
+		},
+		{
+		  "-lat": "39.986879",
+		  "-lon": "-3.965128",
+		  "name": "Toro de Osborne Cabañas de la Sagra (Toledo)\n",
+		  "extensions": {
+			"comunidad:autonoma": "Castilla La Mancha"
+		  }
+		},
+		{
+		  "-lat": "40.216808",
+		  "-lon": "-4.088163",
+		  "name": "Toro de Osborne Valmojado (Toledo)",
+		  "extensions": {
+			"comunidad:autonoma": "Castilla La Mancha"
+		  }
+		},
+		{
+		  "-lat": "40.826594",
+		  "-lon": "-3.613056",
+		  "name": "Toro de Osborne Cabanillas de la Sierra",
+		  "extensions": {
+			"comunidad:autonoma": "Madrid"
+		  }
+		},
+		{
+		  "-lat": "42.415803",
+		  "-lon": "-6.018357",
+		  "name": "Toro de Osborne Osborne Cuevas de Valderrey (A) (León)",
+		  "extensions": {
+			"comunidad:autonoma": "Castilla y León"
+		  }
+		},
+		{
+		  "-lat": "39.594385",
+		  "-lon": "-3.522768",
+		  "name": "Toro de Osborne Tembleque (Toledo)",
+		  "extensions": {
+			"comunidad:autonoma": "Castilla La Mancha"
+		  }
+		},
+		{
+		  "-lat": "39.450964",
+		  "-lon": "-3.525607",
+		  "name": "Toro de Osborne Madridejos (Toledo)",
+		  "extensions": {
+			"comunidad:autonoma": "Castilla La Mancha"
+		  }
+		},
+		{
+		  "-lat": "39.476508",
+		  "-lon": "-2.728377",
+		  "name": "Toro de Osborne El Pedernoso (Cuenca)",
+		  "extensions": {
+			"comunidad:autonoma": "Castilla La Mancha"
+		  }
+		},
+		{
+		  "-lat": "39.626985",
+		  "-lon": "-2.312859",
+		  "name": "Toro de Osborne Honrubia (Cuenca)",
+		  "extensions": {
+			"comunidad:autonoma": "Castilla La Mancha"
+		  }
+		},
+		{
+		  "-lat": "39.525679",
+		  "-lon": "-1.752477",
+		  "name": "Toro de Osborne Castillo de Iniesta (Cuenca)",
+		  "extensions": {
+			"comunidad:autonoma": "Castilla La Mancha"
+		  }
+		},
+		{
+		  "-lat": "39.084911",
+		  "-lon": "-1.961764",
+		  "name": "Toro de Osborne La Gineta (Albacete)",
+		  "extensions": {
+			"comunidad:autonoma": "Castilla La Mancha"
+		  }
+		},
+		{
+		  "-lat": "38.997859",
+		  "-lon": "-3.388809",
+		  "name": "Toro de Osborne Manzanares (Ciudad Real)",
+		  "extensions": {
+			"comunidad:autonoma": "Castilla La Mancha"
+		  }
+		},
+		{
+		  "-lat": "38.459741",
+		  "-lon": "-3.501165",
+		  "name": "Toro de Osborne Almuradiel (Ciudad Real)",
+		  "extensions": {
+			"comunidad:autonoma": "Castilla La Mancha"
+		  }
+		},
+		{
+		  "-lat": "38.321243",
+		  "-lon": "-3.555352",
+		  "name": "Toro de Osborne Santa Elena (Jaén)",
+		  "extensions": {
+			"comunidad:autonoma": "Andalucía"
+		  }
+		},
+		{
+		  "-lat": "39.89784",
+		  "-lon": "-4.62818",
+		  "name": "Toro de Osborne Malpica del Tajo (Toledo)",
+		  "extensions": {
+			"comunidad:autonoma": "Castilla La Mancha"
+		  }
+		},
+		{
+		  "-lat": "39.931787",
+		  "-lon": "-6.221835",
+		  "name": "Toro de Osborne Plasencia (Caceres)",
+		  "extensions": {
+			"comunidad:autonoma": "Extremadura"
+		  }
+		},
+		{
+		  "-lat": "39.600531",
+		  "-lon": "-6.476138",
+		  "name": "Toro de Osborne Casar de Cáceres (Cáceres)",
+		  "extensions": {
+			"comunidad:autonoma": "Extremadura"
+		  }
+		},
+		{
+		  "-lat": "39.42497",
+		  "-lon": "-5.891917",
+		  "name": "Toro de Osborne Trujillo (Cáceres)",
+		  "extensions": {
+			"comunidad:autonoma": "Extremadura"
+		  }
+		},
+		{
+		  "-lat": "38.907509",
+		  "-lon": "-6.381371",
+		  "name": "Toro de Osborne Mérida (Badajoz)",
+		  "extensions": {
+			"comunidad:autonoma": "Extremadura"
+		  }
+		},
+		{
+		  "-lat": "38.276548",
+		  "-lon": "-6.307462",
+		  "name": "Toro de Osborne Calzadilla de los Barros (Badajoz)",
+		  "extensions": {
+			"comunidad:autonoma": "Extremadura"
+		  }
+		},
+		{
+		  "-lat": "37.749741",
+		  "-lon": "-6.369634",
+		  "name": "Toro de Osborne Castillo de las Guardas (Sevilla)",
+		  "extensions": {
+			"comunidad:autonoma": "Andalucía"
+		  }
+		},
+		{
+		  "-lat": "37.392997",
+		  "-lon": "-6.317686",
+		  "name": "Toro de Osborne Castilleja del Campo (Sevilla)",
+		  "extensions": {
+			"comunidad:autonoma": "Andalucía"
+		  }
+		},
+		{
+		  "-lat": "37.502569",
+		  "-lon": "-5.453263",
+		  "name": "Toro de Osborne La Campana (Sevilla)",
+		  "extensions": {
+			"comunidad:autonoma": "Andalucía"
+		  }
+		},
+		{
+		  "-lat": "37.768287",
+		  "-lon": "-4.820423",
+		  "name": "Toro de Osborne Cuesta del Espino (Cordoba)",
+		  "extensions": {
+			"comunidad:autonoma": "Andalucía"
+		  }
+		},
+		{
+		  "-lat": "37.300008",
+		  "-lon": "-3.662227",
+		  "name": "Toro de Osborne Albolote (Granada)",
+		  "extensions": {
+			"comunidad:autonoma": "Andalucía"
+		  }
+		},
+		{
+		  "-lat": "37.140818",
+		  "-lon": "-3.456816",
+		  "name": "Toro de Osborne Güejar Sierra (Granada)",
+		  "extensions": {
+			"comunidad:autonoma": "Andalucía"
+		  }
+		},
+		{
+		  "-lat": "36.936149",
+		  "-lon": "-2.462222",
+		  "name": "Toro de Osborne Benahadux (Almeria)",
+		  "extensions": {
+			"comunidad:autonoma": "Andalucía"
+		  }
+		},
+		{
+		  "-lat": "36.898567",
+		  "-lon": "-4.434338",
+		  "name": "Toro de Osborne Casabermeja (Málaga)",
+		  "extensions": {
+			"comunidad:autonoma": "Andalucía"
+		  }
+		},
+		{
+		  "-lat": "37.273917",
+		  "-lon": "-4.801518",
+		  "name": "Toro de Osborne Lora de Estepa (Sevilla)",
+		  "extensions": {
+			"comunidad:autonoma": "Andalucía"
+		  }
+		},
+		{
+		  "-lat": "36.560724",
+		  "-lon": "-4.609771",
+		  "name": "Toro de Osborne Los Boliches (Málaga)",
+		  "extensions": {
+			"comunidad:autonoma": "Andalucía"
+		  }
+		},
+		{
+		  "-lat": "36.174917",
+		  "-lon": "-5.481105",
+		  "name": "Toro de Osborne Los Barrios (Cádiz)",
+		  "extensions": {
+			"comunidad:autonoma": "Andalucía"
+		  }
+		},
+		{
+		  "-lat": "36.134539",
+		  "-lon": "-5.710876",
+		  "name": "Toro de Osborne Tarifa (Cadiz)",
+		  "extensions": {
+			"comunidad:autonoma": "Andalucía"
+		  }
+		},
+		{
+		  "-lat": "36.283608",
+		  "-lon": "-6.049488",
+		  "name": "Toro de Osborne Vejer de la Frontera (Cádiz)",
+		  "extensions": {
+			"comunidad:autonoma": "Andalucía"
+		  }
+		},
+		{
+		  "-lat": "36.457082",
+		  "-lon": "-5.74215",
+		  "name": "Toro de Osborne Alcalá de los Gazules (B) (Cádiz)",
+		  "extensions": {
+			"comunidad:autonoma": "Andalucía"
+		  }
+		},
+		{
+		  "-lat": "36.462918",
+		  "-lon": "-5.781318",
+		  "name": "Toro de Osborne Alcalá de los Gazules (A) (Cádiz)",
+		  "extensions": {
+			"comunidad:autonoma": "Andalucía"
+		  }
+		},
+		{
+		  "-lat": "36.629834",
+		  "-lon": "-6.198445",
+		  "name": "Toro de Osborne Rotonda de los Toros (Cádiz)",
+		  "extensions": {
+			"comunidad:autonoma": "Andalucía"
+		  }
+		},
+		{
+		  "-lat": "36.782807",
+		  "-lon": "-6.041199",
+		  "name": "Toro de Osborne El Cuadrejón (Cádiz)",
+		  "extensions": {
+			"comunidad:autonoma": "Andalucía"
+		  }
+		},
+		{
+		  "-lat": "36.966618",
+		  "-lon": "-5.877328",
+		  "name": "Toro de Osborne Las Cabezas de San Juan (Sevilla)",
+		  "extensions": {
+			"comunidad:autonoma": "Andalucía"
+		  }
+		},
+		{
+		  "-lat": "36.732216",
+		  "-lon": "-4.119853",
+		  "name": "Toro de Osborne Almayate (Málaga)",
+		  "extensions": {
+			"comunidad:autonoma": "Andalucía"
+		  }
+		},
+		{
+		  "-lat": "36.64396",
+		  "-lon": "-6.178041",
+		  "name": "Toro de Osborne Matajaca (Cádiz)",
+		  "extensions": {
+			"comunidad:autonoma": "Andalucía"
+		  }
+		},
+		{
+		  "-lat": "36.633952",
+		  "-lon": "-6.195422",
+		  "name": "Toro de Osborne Cuesta de la Trocha (Cádiz)",
+		  "extensions": {
+			"comunidad:autonoma": "Andalucía"
+		  }
+		},
+		{
+		  "-lat": "39.480653",
+		  "-lon": "-0.345001",
+		  "name": "Toro de Osborne Universidad Politécnica (Valencia)",
+		  "extensions": {
+			"comunidad:autonoma": "Comunidad Valenciana"
+		  }
+		},
+		{
+		  "-lat": "39.47742",
+		  "-lon": "-1.040054",
+		  "name": "Toro de Osborne El Rebollar (Valencia) ",
+		  "extensions": {
+			"comunidad:autonoma": "Comunidad Valenciana"
+		  }
+		},
+		{
+		  "-lat": "39.086397",
+		  "-lon": "-0.24385",
+		  "name": "Toro de Osborne Tabernes de Valdigna (Valencia)",
+		  "extensions": {
+			"comunidad:autonoma": "Comunidad Valenciana"
+		  }
+		},
+		{
+		  "-lat": "39.530735",
+		  "-lon": "-1.447102",
+		  "name": "Toro de Osborne Villargordo del Cabriel (Valencia)",
+		  "extensions": {
+			"comunidad:autonoma": "Comunidad Valenciana"
+		  }
+		},
+		{
+		  "-lat": "38.185861",
+		  "-lon": "-0.60273",
+		  "name": "Toro de Osborne Santa Pola (Alicante)",
+		  "extensions": {
+			"comunidad:autonoma": "Comunidad Valenciana"
+		  }
+		},
+		{
+		  "-lat": "38.36022",
+		  "-lon": "-0.682768",
+		  "name": "Toro de Osborne Monforte del Cid (Alicante)",
+		  "extensions": {
+			"comunidad:autonoma": "Comunidad Valenciana"
+		  }
+		},
+		{
+		  "-lat": "38.43818",
+		  "-lon": "-0.387566",
+		  "name": "Toro de Osborne Venta la Nuza (Alicante)",
+		  "extensions": {
+			"comunidad:autonoma": "Comunidad Valenciana"
+		  }
+		},
+		{
+		  "-lat": "38.47578",
+		  "-lon": "-0.32139",
+		  "name": "Toro de Osborne Villajoyosa (Alicante)",
+		  "extensions": {
+			"comunidad:autonoma": "Comunidad Valenciana"
+		  }
+		},
+		{
+		  "-lat": "36.610919",
+		  "-lon": "-6.214604",
+		  "name": "Toro de Osborne Bodegas Osborne",
+		  "extensions": {
+			"comunidad:autonoma": "Andalucía"
+		  }
+		},
+		{
+		  "-lat": "6.462918",
+		  "-lon": "-5.781318",
+		  "name": "Toro de Osborne Alcalá de los Gazules (A)",
+		  "extensions": {
+			"comunidad:autonoma": "Andalucía"
+		  }
+		}
+	  ]
+	}
+}
+  
