@@ -1,6 +1,6 @@
 import express, { Express, Request, Response } from 'express';
 import dotenv from 'dotenv';
-import https from 'https';
+import http from 'http';
 import fs from 'fs'
 import { GetData } from './service/get.data';
 import { Environment } from './infrastructure/env';
@@ -14,10 +14,6 @@ if (!env.validate())
   console.log(env.toString());
 }
 
-const options = {
-  key: fs.readFileSync(process.env.PRIVATE_KEY_PATH!),
-  cert: fs.readFileSync(process.env.CERT_KEY_PATH!)
-}
 const app: Express = express();
 const port = process.env.PORT!;
 
@@ -27,6 +23,6 @@ app.get('/', async (req: Request, res: Response) => {
   res.json(data);  
 });
 
-https.createServer(options, app).listen(port, () => {
+http.createServer(app).listen(port, () => {
   console.log(`⚡️[server]: Server is running at https://localhost:${port}`);
 });

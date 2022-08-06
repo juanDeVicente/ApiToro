@@ -13,10 +13,8 @@ export class Environment
 	}
 
 	toString(): string {
-		return `process.env.PRIVATE_KEY_PATH: ${process.env.PRIVATE_KEY_PATH}\n` + 
-			`process.env.PRIVATE_KEY_PATH: ${process.env.CERT_KEY_PATH}\n` + 
-			`process.env.PRIVATE_KEY_PATH: ${process.env.TOROS_FILE_JSON_PATH}\n` + 
-			`process.env.PRIVATE_KEY_PATH: ${process.env.PORT}\n`
+		return `process.env.TOROS_FILE_JSON_PATH: ${process.env.TOROS_FILE_JSON_PATH}\n` + 
+			`process.env.PORT: ${process.env.PORT}\n`
 		;
 	}
 }
