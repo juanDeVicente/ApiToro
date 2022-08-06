@@ -5,9 +5,8 @@
   "main": "build/index.js",
   "scripts": {
     "build": "npx tsc",
-    "start": "node .",
-    "dev": "concurrently \"npx tsc --watch\" \"nodemon -q dist/index.js\"",
-    "test": "npm run build && set PORT=8080 && npm run start"
+    "start": "npm run build && node .",
+    "dev": "concurrently \"npx tsc --watch\" \"nodemon -q dist/index.js\""
   },
   "author": "",
   "license": "ISC",
