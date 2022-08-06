@@ -5,9 +5,7 @@ export class Environment
 	}
 
 	validate(): boolean {
-		return process.env.PRIVATE_KEY_PATH != undefined &&
-			process.env.CERT_KEY_PATH != undefined &&
-			process.env.TOROS_FILE_JSON_PATH != undefined &&
+		return process.env.TOROS_FILE_JSON_PATH != undefined &&
 			process.env.PORT != undefined
 		;
 	}
