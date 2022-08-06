@@ -1,13 +1,13 @@
 import https from 'https';
 
 export class GetData {
-	private chache: string | undefined;
+	private chache: any | undefined;
 
 	constructor() {
 		
 	}
 
-	async GetDataToros(): Promise<string>
+	async GetDataToros(): Promise<any>
 	{
 		if (this.chache == undefined)
 		{
