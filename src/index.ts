@@ -1,6 +1,6 @@
 import express, { Express, Request, Response } from 'express';
 import dotenv from 'dotenv';
-import http, { STATUS_CODES } from 'http';
+import http from 'http';
 import { GetData } from './service/get.data';
 import { Environment } from './infrastructure/env';
 import { exit } from 'process';
@@ -23,7 +23,7 @@ const getDataService = new GetData();
 const calculateDistanceService = new CalculateDistance(getDataService);
 
 app.get('/toro', async (req: Request, res: Response) => {
-  var data = await getDataService.GetDataToros();
+  var data = getDataService.GetDataToros();
   res.json(data);  
 });
 
