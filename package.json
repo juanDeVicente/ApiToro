@@ -2,9 +2,10 @@
   "name": "apitoro",
   "version": "1.0.0",
   "description": "Api for Toros de Osborne",
-  "main": "build/index.js",
+  "main": "build/src/index.js",
   "scripts": {
     "build": "npx tsc",
+    "copy": "cp -r ./res ./build",
     "start": "npm run build && node .",
     "dev": "concurrently \"npx tsc --watch\" \"nodemon -q dist/index.js\""
   },

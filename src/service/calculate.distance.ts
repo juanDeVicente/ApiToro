@@ -9,7 +9,7 @@ export class CalculateDistance {
 
         async getDistance(lat: number, lon: number): Promise<ToroDistance> {
 
-                var dataToros = await this.getData.GetDataToros();
+                var dataToros = this.getData.GetDataToros();
                 var toros = dataToros.toros as Toro[];
 
                 var torosDistance = toros
