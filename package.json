@@ -5,8 +5,8 @@
   "main": "build/src/index.js",
   "scripts": {
     "build": "npx tsc",
-    "copy": "cp -r ./res ./build",
-    "start": "npm run build && node .",
+    "copy": "cp -r ./res ./build/res",
+    "start": "npm run build && npm run copy &&node .",
     "dev": "concurrently \"npx tsc --watch\" \"nodemon -q dist/index.js\""
   },
   "author": "",
