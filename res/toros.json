@@ -88,9 +88,7 @@
 			"lat": "40.928496",
 			"lon": "-5.409211",
 			"name": "Toro de Osborne Cordovilla (Salamanca)",
-			"extensions": {
-				"comunidad": "Castilla y León"
-			}
+			"comunidad": "Castilla y León"
 		},
 		{
 			"lat": "40.842673",
