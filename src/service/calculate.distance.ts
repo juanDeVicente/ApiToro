@@ -14,7 +14,7 @@ export class CalculateDistance {
 
                 var torosDistance = toros
                         .map(toro => new ToroDistance(lat, lon, this.calculateDistanceBetweenPoints(lat, toro.lat, lon, toro.lon), toro))
-                        .sort(toroDistance => toroDistance.distance);
+                        .sort((toroDistance, toroDistance2) => toroDistance.distance - toroDistance2.distance);
 
                 return torosDistance[0];
         }
